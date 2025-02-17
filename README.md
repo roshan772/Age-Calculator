@@ -24,3 +24,6 @@ HTML – Structure of the page
 CSS – Styling and layout
 
 JavaScript – Logic for age calculation
+
+
+![Age Calculator Screenshot](https://github.com/roshan772/Age-Calculator/blob/ed085a7fa6bc3e277bad631ad9dd831b7693b4e2/Screenshot%202025-02-17%20205428.png?raw=true)
